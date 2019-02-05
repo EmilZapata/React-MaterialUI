@@ -2,9 +2,6 @@ import React, {Fragment} from 'react'
 import {Grid,Paper,Typography, List} from 'material-ui'
 import { ListItem, ListItemText } from 'material-ui/List'
 
-import LeftPane from './LeftPane'
-import RighPane from './RighPane'
-
 const styles = {
   Paper: {
     padding: 20, 
